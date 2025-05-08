@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I am Amit 👋
 
+I am a physician and a data scientist. I grew up in a semi-rural town in India.  
+
+- 🔭 I’m currently working on medical imaging and LLMs
+- 📫 How to reach me: via email
+- 😄 Pronouns: He/him
 <!--
 **aaekay/aaekay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
