@@ -2,8 +2,8 @@
 
 I am a physician and a data scientist. I grew up in a semi-rural town in India.  
 
-- 🔭 I’m currently working on medical imaging and LLMs,
-- 🤗 Checkout my Radiology Report Classification [Leaderboard](https://huggingface.co/spaces/aaekay/medical-classification-llm-leaderboard) on HF
+- 🔭 I’m currently working on **Medical imaging** and **LLMs**,
+- 🤗 Checkout my **Radiology Report Classification** [Leaderboard](https://huggingface.co/spaces/aaekay/medical-classification-llm-leaderboard) on HF
 - 📫 How to reach me: via email
 - 😄 Pronouns: He/him
 <!--
