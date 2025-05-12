@@ -1,8 +1,9 @@
 ## Hi, I am Amit 👋
 
-I am a physician and a data scientist. I grew up in a semi-rural town in India.  
+I am a physician (AIIMS, Delhi) and a data scientist. I grew up in a semi-rural town of India chasing airplanes.
 
 - 🔭 I’m currently working on **Medical imaging** and **LLMs**,
+- ✍️ I also write on **Substack** - [Abnormal Docs](https://abnormaldocs.substack.com/) 
 - 🤗 Checkout my **Radiology Report Classification** [Leaderboard](https://huggingface.co/spaces/aaekay/medical-classification-llm-leaderboard) on HF
 - 📫 How to reach me: via email
 - 😄 Pronouns: He/him
